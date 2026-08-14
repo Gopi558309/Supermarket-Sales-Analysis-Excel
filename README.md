@@ -78,7 +78,8 @@ The project includes data analysis using Excel formulas and PivotTables, followe
 - The analysis shows a clear relationship between the February decline in transaction quantity and the corresponding decline in Sales and Gross Income.
 
 ## 📊 Dashboard
-![Supermarket Sales Dashboard](Dashboard.png)
+<img width="567" height="428" alt="dashboard" src="https://github.com/user-attachments/assets/ab7bcb94-1cef-4970-9d46-92133393fcc1" />
+
 
 The Excel dashboard provides a consolidated view of:
 
